@@ -1,7 +1,7 @@
 const express = require("express");
 const path = require("path");
 
-const hostname = '127.0.0.1';
+const hostname = "localhost";
 const port = 5000;
 
 const app = express();
